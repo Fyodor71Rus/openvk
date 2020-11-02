@@ -337,32 +337,34 @@
 "new_password" = "Nowe hasło";
 "repeat_password" = "Powtórz hasło";
 
-"avatars_style" = "Отображение аватар";
-"style" = "Стиль";
+"avatars_style" = "Wyświetlanie avatara";
+"style" = "Styl";
 
-"default" = "По умолчанию";
-"cut" = "Обрезка";
-"round_avatars" = "Круглый аватар";
+"default" = "Domyślnie";
+"cut" = "Obcinanie";
+"round_avatars" = "Okrągły Avatar";
 
 "search_for_groups" = "Поиск групп";
 "search_for_people" = "Поиск людей";
-"search_button" = "Найти";
-"privacy_setting_access_page" = "Кому в интернете видно мою страницу";
-"privacy_setting_read_info" = "Кому видно основную информацию моей страницы";
-"privacy_setting_see_groups" = "Кому видно мои группы и встречи";
-"privacy_setting_see_photos" = "Кому видно мои фотографии";
-"privacy_setting_see_videos" = "Кому видно мои видеозаписи";
-"privacy_setting_see_notes" = "Кому видно мои заметки";
-"privacy_setting_see_friends" = "Кому видно моих друзей";
-"privacy_setting_add_to_friends" = "Кто может называть меня другом";
-"privacy_setting_write_wall" = "Кто может писать у меня на стене";
-"privacy_value_anybody" = "Все желающие";
-"privacy_value_anybody_dative" = "Всем желающим";
-"privacy_value_users" = "Пользователям OpenVK";
-"privacy_value_friends" = "Друзья";
-"privacy_value_friends_dative" = "Друзьям";
-"privacy_value_only_me_and_super_capite" = "Я и Виталина Павленко";
-"privacy_value_only_me_and_super_capite_dative" = "Мне и Виталине Павленко";
+"search_button" = "Znaleźć";
+"privacy_setting_access_page" = "Komu w internecie widoczna jest moja strona";
+"privacy_setting_read_info" = "Kto widzi podstawowe informacje o mojej stronie";
+"privacy_setting_see_groups" = "Kto widzi moje grupy i spotkania";
+"privacy_setting_see_photos" = "Kto widzi moje zdjęcia";
+"privacy_setting_see_videos" = "Kto widzi moje wideo";
+"privacy_setting_see_notes" = "Kto widzi moje notatki";
+"privacy_setting_see_friends" = "Kto widzi moich znajomych";
+"privacy_setting_add_to_friends" = "Kto może nazywać mnie znajomym";
+"privacy_setting_write_wall" = "Kto może pisać na mojej ścianie";
+"privacy_value_anybody" = "Wszyscy użytkownicy";
+"privacy_value_anybody_dative" = "Wszystkim użytkownikom";
+"privacy_value_users" = "Użytkownikom OpenVK";
+"privacy_value_friends" = "Znajomi";
+"privacy_value_friends_dative" = "Znajomym";
+"privacy_value_only_me" = "Tylko ja";
+"privacy_value_only_me_dative" = "Tylko mnie";
+"privacy_value_only_me_and_super_capite" = "Ja i Виталина Павленко";
+"privacy_value_only_me_and_super_capite_dative" = "Ja i Виталине Павленко";
 "privacy_value_super_capite" = "Виталине Павленко";
 
 "points" = "Głosy";
@@ -376,7 +378,7 @@
 "page_id" = "ID strony";
 "you_can_also" = "Możesz";
 "delete_your_page" = "usunąć swoją stronę";
-"delete_album" = "удалить альбом";
+"delete_album" = "usuń album";
 
 "ui_settings_interface" = "Interface";
 "ui_settings_sidebar" = "Lewe menu";

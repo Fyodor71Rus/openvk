@@ -183,7 +183,7 @@
 "groups_many" = "$1 grup";
 "groups_other" = "$1 grup";
 
-"meetings_zero" = "Brak spotkanie";
+"meetings_zero" = "Brak spotkania";
 "meetings_one" = "Jedno spotkanie";
 "meetings_few" = "$1 spotkania";
 "meetings_many" = "$1 spotkań";
@@ -398,15 +398,15 @@
 "no_data" = "Brak danych";
 "no_data_description" = "W tym widoku brakuje danych.";
 
-"error" = "Pomyłka";
+"error" = "Błąd";
 "error_shorturl" = "Ten krótki adres jest już zajęty.";
-"error_segmentation" = "Pomyłka segmentacji";
+"error_segmentation" = "Błąd segmentacji";
 "error_upload_failed" = "Nie można przesłać zdjęcia";
 "error_old_password" = "Stare hasło nie pasuje";
 "error_new_password" = "Nowe hasło nie pasuje";
 "error_shorturl_incorrect" = "Krótki adres ma nieprawidłowy format.";
 
-"forbidden" = "Pomyłka dostępu";
+"forbidden" = "Błąd dostępu";
 "forbidden_comment" = "Ustawienia prywatności tego użytkownika nie pozwalają na przeglądanie jego strony.";
 
 "changes_saved" = "Zmiany zapisane";

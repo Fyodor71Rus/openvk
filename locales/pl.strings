@@ -11,7 +11,7 @@
 
 "log_in" = "Wejdź";
 "password" = "Hasło";
-"registration" = "Rejestracja"
+"registration" = "Rejestracja";
 
 %{ Profile information %}
 
